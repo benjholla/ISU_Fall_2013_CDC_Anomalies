@@ -1,0 +1,1 @@
+If something was submitted, they get the points.

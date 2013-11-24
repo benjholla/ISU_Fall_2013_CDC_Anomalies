@@ -1,0 +1,1 @@
+If they submitted something that looks like they remotely even tried, give them full credit.

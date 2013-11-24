@@ -1,0 +1,1 @@
+Check with white team to view the service scanner for the event.  
