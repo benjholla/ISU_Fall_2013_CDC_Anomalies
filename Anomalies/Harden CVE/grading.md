@@ -5,3 +5,6 @@ In Eclipse compile the source code and upload the .class file to VirusTotal.com.
 If greater than 10 detections use the formula:  Score = 30 - Number of detections
 
 Grader Note: You may need help from Ben Holland or someone with Eclipse set up for this.
+
+Note: This anomaly was adapted from the online tutorial.  
+Link: [http://security-obscurity.blogspot.com/2012/11/java-exploit-code-obfuscation-and.html](http://security-obscurity.blogspot.com/2012/11/java-exploit-code-obfuscation-and.html)
