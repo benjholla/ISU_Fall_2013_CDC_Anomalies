@@ -1,4 +1,4 @@
-Decompile and Analyze Android Application
+Decompile and Analyze Android Applications
 ---------------------------------------------------------
 
 We received a few samples of Android Applications.  You need to decompile the applications (.apk) files and analyze the applications for the presence of malware.  Submit a report that classifies each sample as either a "malware" or a "benign" sample.  Each classification must have a written and "reasonable" justification that supports the classification.  
