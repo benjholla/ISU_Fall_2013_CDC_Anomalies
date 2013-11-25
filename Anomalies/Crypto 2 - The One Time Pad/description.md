@@ -5,6 +5,8 @@ We intercepted an encrypted file leaving our network to a known AnonyMouse IP.  
 
 We found some sort of encryption and decryption software on an ex-employees computer this morning.
 
+Included Files: [Crypto2.zip](./Crypto2.zip)
+
 Submission Instructions
 ---------------------
 Decode the message and submit the plaintext message.

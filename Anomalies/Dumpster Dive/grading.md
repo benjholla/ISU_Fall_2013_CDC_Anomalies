@@ -1,5 +1,7 @@
 If the team somehow regurgitates or gets close to some form of the information below, they should get full points because we know they pieced it back together.  
 
+There were two documents shredded together with a $10 Walmart shredder.  One document was the document in question with the information below.  The other was the lyrics of Rick Astley's Never Gonna Give You Up (Rick Roll) in the same font and format as the document to recover.
+
 The mission is to observe and follow a local government official by the name of R. Mullins with the purpose of collecting potential blackmail to use against him.
 
 The mission/operation was renamed from Operation CandyCane to Operation Follow.
