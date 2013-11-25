@@ -1,4 +1,4 @@
-Find the Rogue AP
+Find the Rogue Access Point
 ---------------------------
 AnonyMouse has been setting up rogue access points around campus.  We need to find these access points.
 

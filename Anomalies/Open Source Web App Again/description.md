@@ -1,4 +1,4 @@
-Opensource Web App Again
+Open Source Web App Again
 --------------------------------------
 
 Your boss insists that Open Source is secure.  He's actually really upset at you for not pushing code back to his repo (https://github.com/benjholla/Blackbook).  Since you have made all sorts of changes of your own you should really just fork the project at this point.
