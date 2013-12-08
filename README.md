@@ -1,13 +1,23 @@
-ISU Fall 2013 CDC Anomalies===========================This repository contains collection of the Iowa State University Fall 2013 Cyber Defense Competition anomalies and solutions where applicable.  The ISU CDC anomalies are optional challenges that may be completed by participating teams within the allocated challenge time frame to earn additional points during the competition.  Some anomalies are intentionally designed to provoke teams into performing an ill-advised operation that could potentially compromise the security of their network.  Other anomalies are simply technical or non-technical challenges designed to engage the participant during the competition.These anomalies were created for the Iowa State University Fall 2013 Cyber Defense Competition held on September 21, 2013.  They are being released under the MIT License in the hopes that they can be reused or in some way aid in learning or promotion of computer security topics.  Aside from the `Initial Survey`, `Forensic Analysis of File Types`, and `King of the Hill` anomaly, which contained a vulnerable virtual machine for partipants to attack (not released in this repository), the anomalies created in this repository were created by Ben Holland.
-**Disclaimer:** The brief post-analysis of the CDC anomalies given below is the work of Ben Holland and does not reflect the views or opinions of Iowa State University.  A best effort was made to collect this data during and after the competition from participant registration, participant check in sheets, the competition scoreboard, and participant feedback.  As a result some of the data and analysis may be subject to errors.  Note also that some of the challenges contain security relevant materials that could be considered malicious by some.  Please use common sense when browsing this repository.
-## ParticipationThe ISU Fall 2013 CDC had 25 teams register to compete in the Fall 2013 Cyber Defense Competition with varying team attendance on competition day.  As a result a few teams disbanded before competition day leaving 20 participating teams during the competition.
+ISU Fall 2013 CDC Anomalies
+===========================
 
-<img src="./Results/Team_Attendence.png" alt="Team Attendence" style="width:100%;"/>
+This repository contains collection of the Iowa State University Fall 2013 Cyber Defense Competition anomalies and solutions where applicable.  The ISU CDC anomalies are optional challenges that may be completed by participating teams within the allocated challenge time frame to earn additional points during the competition.  Some anomalies are intentionally designed to provoke teams into performing an ill-advised operation that could potentially compromise the security of their network.  Other anomalies are simply technical or non-technical challenges designed to engage the participant during the competition.
+
+These anomalies were created for the Iowa State University Fall 2013 Cyber Defense Competition held on September 21, 2013.  They are being released under the MIT License in the hopes that they can be reused or in some way aid in learning or promotion of computer security topics.  Aside from the `Initial Survey`, `Forensic Analysis of File Types`, and `King of the Hill` anomaly, which contained a vulnerable virtual machine for participants to attack (not released in this repository), the anomalies created in this repository were created by Ben Holland.
+
+
+**Disclaimer:** The brief post-analysis of the CDC anomalies given below is the work of Ben Holland and does not reflect the views or opinions of Iowa State University.  A best effort was made to collect this data during and after the competition from participant registration, participant check in sheets, the competition scoreboard, and participant feedback.  As a result some of the data and analysis may be subject to errors.  Note also that some of the challenges contain security relevant materials that could be considered malicious by some.  Please use common sense when browsing this repository.
+
+
+## Participation
+The ISU Fall 2013 CDC had 25 teams register to compete in the Fall 2013 Cyber Defense Competition with varying team attendance on competition day.  As a result a few teams disbanded before competition day leaving 20 participating teams during the competition.
+
+<img src="./Results/Team_Attendance.png" alt="Team Attendance" style="width:100%;"/>
 
 ## Anomalies
 The competition had a total of 18 anomalies.  For the majority of the competition multiple overlapping anomalies were active for teams to attempt.  Partial credit was given when grading submissions.
 
-<img src="./Results/Timeline.png" alt="Team Attendence" style="width:100%;"/>
+<img src="./Results/Timeline.png" alt="Timeline " style="width:100%;"/>
 
 | Anomaly Name                               | Max Score | Required      | Released      | Expired  | Time Allowed        |
 | -------------------------------------------|:---------:|:-------------:|:-------------:|:--------:|--------------------:|
@@ -35,8 +45,33 @@ The anomalies `Employee On-boarding`, `Add FTP Service` and `Promotion Day` were
 
 | Anomaly Name                               | Percentage Teams Submitted | Average Percentage Earned For Submissions |
 | -------------------------------------------|:--------------------------:|------------------------------------------:|
-| Initial Survey                             | 100 %                      | 100 %                                     || Employee On-boarding                       | 80 %                       | 78.1 %                                    || Crypto 1 - The Cryptonomicon               | 45 %                       | 78.9 %                                    || Add FTP Service                            | 60 %                       | 91.7 %                                    || Forensic Analysis of File Types            | 95 %                       | 80 %                                      || Dumpster Dive                              | 90 %                       | 92.2 %                                    || King Of The Hill                           | 20 %                       | 54.2 %                                    || Charles Got Fired                          | 90 %                       | 72.2 %                                    || Crypto 2 - The One Time Pad                | 20 %                       | 50 %                                      || Oddball                                    | 85 %                       | 100 %                                     || FBI Raid                                   | 60 %                       | 77.5 %                                    || Harden CVE                                 | 30 %                       | 35.6 %                                    || Decompile and Analyze Android Applications | 45 %                       | 72.2 %                                    || Restore Services After FBI Raid            | 45 %                       | 88.9 %                                    || Promotion Day                              | 20 %                       | 25 %                                      || Open Source Web App Again                  | 55 %                       | 93.9 %                                    || Crack Password Hashes                      | 100 %                      | 74 %                                      || Find the Rogue Access Point                | 55 %                       | 87.9 %                                    |
+| Initial Survey                             | 100 %                      | 100 %                                     |
+| Employee On-boarding                       | 80 %                       | 78.1 %                                    |
+| Crypto 1 - The Cryptonomicon               | 45 %                       | 78.9 %                                    |
+| Add FTP Service                            | 60 %                       | 91.7 %                                    |
+| Forensic Analysis of File Types            | 95 %                       | 80 %                                      |
+| Dumpster Dive                              | 90 %                       | 92.2 %                                    |
+| King Of The Hill                           | 20 %                       | 54.2 %                                    |
+| Charles Got Fired                          | 90 %                       | 72.2 %                                    |
+| Crypto 2 - The One Time Pad                | 20 %                       | 50 %                                      |
+| Oddball                                    | 85 %                       | 100 %                                     |
+| FBI Raid                                   | 60 %                       | 77.5 %                                    |
+| Harden CVE                                 | 30 %                       | 35.6 %                                    |
+| Decompile and Analyze Android Applications | 45 %                       | 72.2 %                                    |
+| Restore Services After FBI Raid            | 45 %                       | 88.9 %                                    |
+| Promotion Day                              | 20 %                       | 25 %                                      |
+| Open Source Web App Again                  | 55 %                       | 93.9 %                                    |
+| Crack Password Hashes                      | 100 %                      | 74 %                                      |
+| Find the Rogue Access Point                | 55 %                       | 87.9 %                                    |
 
-The winning team had the most active participants and earned the highest total anomaly score.  The winning team was also notably efficient in the management of team resources.Interestingly, however, the size of the team appeared to have little to no correlation to the total amount of points earned by the team from anomalies.  This is perhaps explained by teams that may have began to focus on anomalies as a way to recover points when other points were already lost by the Red team capturing flags or the team having services offline during regular service scans.  
+The winning team had the most active participants and earned the highest total anomaly score.  The winning team was also notably efficient in the management of team resources.
 
-<img src="./Results/TeamCheckedInVsAnomalyScore.png" alt="Team Size Vs. Anamaly Score" style="width:100%;"/>
+Interestingly, however, the size of the team appeared to have little to no correlation to the total amount of points earned by the team from anomalies.  This is perhaps explained by teams that may have began to focus on anomalies as a way to recover points when other points were already lost by the Red team capturing flags or the team having services offline during regular service scans.  
+
+<img src="./Results/TeamCheckedInVsAnomalyScore.png" alt="Team Size Vs. Anamaly Score" style="width:100%;"/>
+
+
+
+
+
+
