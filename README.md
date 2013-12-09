@@ -68,7 +68,7 @@ The winning team had the most active participants and earned the highest total a
 
 Interestingly, however, the size of the team appeared to have little to no correlation to the total amount of points earned by the team from anomalies.  This is perhaps explained by teams that may have began to focus on anomalies as a way to recover points when other points were already lost by the Red team capturing flags or the team having services offline during regular service scans.  
 
-<img src="./Results/TeamCheckedInVsAnomalyScore.png" alt="Team Size Vs. Anamaly Score" style="width:100%;"/>
+<img src="./Results/TeamCheckedInVsAnomalyScore.png" alt="Team Size Vs. Anomaly Score" style="width:100%;"/>
 
 
 
