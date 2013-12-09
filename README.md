@@ -43,7 +43,7 @@ The competition had a total of 18 anomalies.  For the majority of the competitio
 ## Results
 The anomalies `Employee On-boarding`, `Add FTP Service` and `Promotion Day` were designed to increase the attack surface area of the network and as a result many teams decided to strategically abstain from the challenge.  The `Open Source Web App Again` anomaly was designed to test teams on their ability to sanitize source code and the Red team was given a link to the source repositories created by the Blue teams that completed the challenge.  The remaining challenges were generally beneficial for teams to complete.  Some challenges were much more difficult than others and due to time constraints many teams did not submit all challenges.
 
-| Anomaly Name                               | Percentage Teams Submitted | Average Percentage Earned For Submissions |
+| Anomaly Name                               | Percentage Teams Submitted | Average Point Percentage Earned           |
 | -------------------------------------------|:--------------------------:|------------------------------------------:|
 | Initial Survey                             | 100 %                      | 100 %                                     |
 | Employee On-boarding                       | 80 %                       | 78.1 %                                    |
